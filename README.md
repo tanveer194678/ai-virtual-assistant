@@ -1,50 +1,55 @@
-# Virtual Assistant (Python)
+# 🤖 AI Virtual Assistant
 
-## Overview
+A Python-based AI Virtual Assistant capable of understanding voice commands and performing tasks like opening websites, searching Wikipedia, telling the current time, and responding using text-to-speech.
 
-A Python-based virtual assistant capable of understanding voice commands and performing everyday tasks such as opening applications, searching the web, and responding with voice output.
+## ✨ Features
 
-## Features
+- 🎤 Voice Recognition
+- 🔊 Text-to-Speech
+- 🌐 Open Websites
+- 📚 Wikipedia Search
+- ⏰ Current Time
+- 💬 Voice Commands
 
-- Voice command recognition
-- Text-to-speech responses
-- Open applications
-- Web search
-- User-friendly interaction
-
-## Technologies Used
+## 🛠 Technologies Used
 
 - Python
 - SpeechRecognition
 - pyttsx3
 - pywhatkit
-- Wikipedia API
+- Wikipedia
+- webbrowser
 
-## Project Structure
+## 📂 Project Structure
 
 ```
-virtual-assistant-python/
+ai-virtual-assistant/
 │
-├── John.py
+├── main.py
 ├── README.md
 └── requirements.txt
 ```
 
-## Installation
+## 🚀 Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run
+## ▶️ Run
 
 ```bash
-python John.py
+python main.py
 ```
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - GUI interface
-- Weather updates
 - ChatGPT integration
+- Weather updates
+- Calendar integration
 - Voice authentication
+
+## 👨‍💻 Author
+
+Mohammed Tanveer
